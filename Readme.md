@@ -4,3 +4,6 @@
 ## Шаг 2
 Подключили script
 
+ ## Александр Полежаев
+ 
+ [Мой файл](commands_alexanderpolezhaev.md)
