@@ -4,3 +4,6 @@
 ## Шаг 2
 Подключили script
 
+## Карина Маева
+[Инструкция по Git](instruction_KeriMaeva) \
+[Инструкция по Markdown](Markdown_instruction.md) 
