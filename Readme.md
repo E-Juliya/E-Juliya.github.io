@@ -5,6 +5,6 @@
 Подключили script
 
 ## Карина Маева
-[Инструкция по Git](instruction_KeriMaeva)
+[Инструкция по Git](instruction_KeriMaeva.md)
 
 [Инструкция по Markdown](Markdown_instruction.md) 
