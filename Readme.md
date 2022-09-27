@@ -4,3 +4,6 @@
 ## Шаг 2
 Подключили script
 
+## <u>Виктор Дегтярев</u>
+
+Моя инструкция --> [Вот она](/E-Juliya.github.io/instruction_ViktorDegtyarev.md)
