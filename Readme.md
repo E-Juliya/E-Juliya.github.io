@@ -6,4 +6,4 @@
 
 ## <u>Виктор Дегтярев</u>
 
-Моя инструкция --> [Вот она](instruction_ViktorDegtyarev.md)
+My instruction --> [Вот она](instruction_ViktorDegtyarev.md)
