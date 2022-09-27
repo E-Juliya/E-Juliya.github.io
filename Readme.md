@@ -4,3 +4,6 @@
 ## Шаг 2
 Подключили script
 
+## <u>Виктор Дегтярев</u>
+
+My instruction --> [Вот она](instruction_ViktorDegtyarev.md)
