@@ -4,3 +4,4 @@
 ## Шаг 2
 Подключили script
 
+ [моя инструкция](commands_instruction git.md)
