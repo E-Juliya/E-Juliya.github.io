@@ -5,3 +5,4 @@
 Подключили script
 
 finish
+finish
