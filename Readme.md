@@ -4,3 +4,7 @@
 ## шаг 2
 Подключили script
 
+## Владислав Нетбай
+
+[Мой файл](Commands_VladislavNetbayDev)
+
