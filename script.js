@@ -1,3 +1,3 @@
 function clickBtn() {
-    alert("Ку-ку");
+    alert("Бу-Бу-Бу");
 }
